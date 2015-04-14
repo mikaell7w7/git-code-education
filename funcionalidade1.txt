@@ -1,1 +1,2 @@
 Isso foi inserido em funcionalidade1
+Isso foi inserido em MASTER
